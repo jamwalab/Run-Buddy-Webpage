@@ -1,15 +1,17 @@
+/*Global style elements*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/*Body style elements*/
 body{
-    /* more on alpha numeric later */
     font-family: Helvetica, Arial, sans-serif;
     color: #39a6b2;
 }
 
+/*Header styles*/
 header{
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -43,6 +45,7 @@ header nav ul li a {
     font-size: 22px;
 }
 
+/*Footer styles*/
 footer {
     background-color: #fce138;
     padding: 40px 35px;
