@@ -1,17 +1,17 @@
-/*Global style elements*/
+/*GLOBAL style elements*/
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/*Body style elements*/
+/*BODY style elements*/
 body{
     font-family: Helvetica, Arial, sans-serif;
     color: #39a6b2;
 }
 
-/*Header styles*/
+/*HEADER styles*/
 header{
     padding: 20px 35px;
     background-color: #39a6b2;
