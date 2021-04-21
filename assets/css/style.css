@@ -281,3 +281,25 @@ footer h2 {
 footer a {
     color: #024e76;
 }
+
+/*Practice TBD*/
+
+.hero-cta {
+    text-align: right;
+    position: absolute;
+    top: 80px;
+    right: 720px;
+    width: 50%;
+}
+
+.hero-cta h3 {
+    color: #fce138;
+    font-size: 50px;
+    padding: 20px 0;
+}
+
+.hero-cta p {
+    color: white;
+    font-size: 24px;
+    line-height: 1.5;
+}
