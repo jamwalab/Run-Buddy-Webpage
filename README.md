@@ -12,3 +12,5 @@ https://jamwalab.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Abhishek Jamwal]
+
+### ©️2019 Run Buddy, Inc 
