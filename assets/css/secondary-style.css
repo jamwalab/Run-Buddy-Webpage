@@ -1,5 +1,7 @@
 .hero {
-    background-position: bottom;
+    background-position: center;
+    background-attachment: fixed;
+    background-position: 80%;
     height: auto;
     text-align: center;
     margin-bottom: 40px;
